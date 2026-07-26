@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=NotePy
+Comment=Editor de texto e código estilo Notepad++
+Exec=notepy %F
+Icon=notepy
+Terminal=false
+Categories=Utility;TextEditor;Development;
+MimeType=text/plain;
+StartupNotify=true

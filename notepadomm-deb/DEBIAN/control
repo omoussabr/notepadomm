@@ -1,0 +1,7 @@
+Package: notepadomm
+Version: 1.0.1
+Section: editors
+Priority: optional
+Architecture: amd64
+Maintainer: Omar Moussa <your-email@example.com>
+Description: Notepad++-style text and code editor

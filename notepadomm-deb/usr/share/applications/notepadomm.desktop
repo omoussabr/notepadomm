@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=NotepadOMM
+Comment=Editor de texto e código estilo Notepad++
+Exec=notepadomm %F
+Icon=notepadomm
+Terminal=false
+Categories=Utility;TextEditor;Development;
+MimeType=text/plain;
+StartupNotify=true
